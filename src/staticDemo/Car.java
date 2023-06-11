@@ -9,4 +9,7 @@ public class Car {
         System.out.println("Car price : " + " " + price);
         System.out.println("Company Name : " + " " + company_name);
     }
+    public static void change(){
+        company_name = "Bajaj";
+    }
 }

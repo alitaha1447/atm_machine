@@ -2,6 +2,7 @@ package staticDemo;
 
 public class MainClass {
     public static void main(String[] args){
+        Car.change();
         Car car1 = new Car();
         car1.car_name = "TATA Safari";
         car1.price = 850000;
@@ -16,5 +17,6 @@ public class MainClass {
         car3.car_name = "TATA Honda";
         car3.price = 5200000;
         car3.call();
+
     }
 }
