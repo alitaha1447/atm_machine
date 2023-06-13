@@ -10,7 +10,7 @@ this.quackBehavior = quackBehavior;
 }
     @Override
     public void display() {
-        System.out.println("I am MallardDuck");
+        System.out.println("I am MallardDuck Supeeeeeeer");
     }
 
 
